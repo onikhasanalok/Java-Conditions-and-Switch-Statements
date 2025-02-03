@@ -1,3 +1,4 @@
+
 # Java Conditions & Switch Statements  
 
 This Java program demonstrates conditional statements and switch-case operations using user input.  
@@ -14,7 +15,6 @@ This Java program demonstrates conditional statements and switch-case operations
 3. Follow prompts to enter values.  
 
 ## Example Output  
-```
 Enter Value1: 20  
 He/She is an Adult person  
 
@@ -29,6 +29,4 @@ Enter Button Value: 3
 Light switch ON  
 
 ![Conditions](https://github.com/user-attachments/assets/ab889d7e-7d3e-48df-a255-3ba72a3f8f94)
-
-```
 
