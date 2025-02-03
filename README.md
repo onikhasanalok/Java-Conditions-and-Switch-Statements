@@ -28,7 +28,7 @@ A's Value is less than B
 Enter Button Value: 3  
 Light switch ON  
 
-![Conditions](https://github.com/user-attachments/assets/1a8ea6c2-6680-4390-b923-f3abe69f2231)
+![Conditions](https://github.com/user-attachments/assets/ab889d7e-7d3e-48df-a255-3ba72a3f8f94)
 
 ```
 
